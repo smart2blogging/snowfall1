@@ -1,6 +1,5 @@
 /******************************************
-* Visit Dynamic Drive DHTML code library (http://www.dynamicdrive.com/) for full source code
-* For Blogger By http://www.helperblogger.com/
+* For Blogger By http://www.smart2blogging.com/
 ******************************************/
   function openwindow(){
 window.open("autumn_effect.htm","","width=350,height=500")
